@@ -12,4 +12,5 @@ const handleOrderSubmission = (clickEvent) => {
         placeOrder()
             console.log("Button clicked!")
     }
+    
 }

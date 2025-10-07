@@ -148,6 +148,42 @@
       "sideId": 3,
       "vegetableId": 6,
       "id": 3
+    },
+    {
+      "entreeId": 11,
+      "sideId": 6,
+      "vegetableId": 8,
+      "id": 4
+    },
+    {
+      "entreeId": 1,
+      "sideId": 1,
+      "vegetableId": 8,
+      "id": 5
+    },
+    {
+      "entreeId": 7,
+      "sideId": 6,
+      "vegetableId": 8,
+      "id": 6
+    },
+    {
+      "entreeId": 1,
+      "sideId": 3,
+      "vegetableId": 6,
+      "id": 7
+    },
+    {
+      "entreeId": 4,
+      "sideId": 1,
+      "vegetableId": 6,
+      "id": 8
+    },
+    {
+      "entreeId": 2,
+      "sideId": 3,
+      "vegetableId": 9,
+      "id": 9
     }
   ]
 }
