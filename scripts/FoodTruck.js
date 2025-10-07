@@ -8,10 +8,11 @@ const EntreesHTML = await Entrees()
 const sideDishesHTML = await SideDishes()
 const VegetableHTML = await Vegetables()
 const OrderButtonHTML = OrderButton()
+const salesHTML = await Sales()
 
 
 export const FoodTruck = () => {
-    const salesHTML = Sales()
+
 
     return `
         <header class="header">
